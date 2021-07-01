@@ -15,6 +15,4 @@ mkdir $folderName
 cd $folderName
 echo "$content" >> $fileName
 
-git add --all .
-git commit -m "Edited $folderName/$fileName"
-git push
+{ git add --all .; git commit -m "Edited $folderName/$fileName"; git push } &
