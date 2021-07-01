@@ -9,6 +9,7 @@ This recipe is really good - low calorie and tastes exactly like normal spaghett
 - Crushed tomatoes
 - Mushrooms
 - Spices of choice
+- Cheese
 
 ## Instructions
 
