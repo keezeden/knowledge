@@ -1,6 +1,8 @@
 # Knowledge
 
-Knowledge is an attempt to recreate [nikitavoloboev](https://github.com/nikitavoloboev)'s super cool [knowledge](https://github.com/nikitavoloboev/knowledge) repo.
+Knowledge is an attempt to recreate [nikitavoloboev](https://github.com/nikitavoloboev)'s super cool [knowledge](https://github.com/nikitavoloboev/knowledge) repo with my own dev process.
+
+![Demonstration GIF](./.github/demo.gif)
 
 ## Setup
 
